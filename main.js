@@ -1,6 +1,6 @@
-const celsiusInput = document.querySelector('#celsius > input');
-const fahrenheitInput = document.querySelector('#fahrenheit > input');
-const kelvinInput = document.querySelector('#kelvin > input');
+const celsiusInput = document.querySelector('#c > input');
+const fahrenheitInput = document.querySelector('#f > input');
+const kelvinInput = document.querySelector('#k > input');
 
 const roundToTwoDP = (num) => {
   return num.toFixed(2);
