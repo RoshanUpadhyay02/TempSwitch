@@ -16,5 +16,5 @@ Web App link: https://tempswitch.netlify.app/
 
 <img src="https://p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png" alt="Technology stack"> 
 
-License
+License<br></br>
 This project is licensed under the MIT License.
